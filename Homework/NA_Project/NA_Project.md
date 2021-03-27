@@ -1,7 +1,5 @@
 <center><font size=10><strong>Project Report</strong></font></center>
 
-<center><font size=5><strong>黄杰章 3180103159</strong></font></center>
-
 <center><font size=5><strong>2020.11.21</strong></font></center>
 
 
